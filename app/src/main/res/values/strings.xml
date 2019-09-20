@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My FireAppTest</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mul">x</string>
+</resources>
