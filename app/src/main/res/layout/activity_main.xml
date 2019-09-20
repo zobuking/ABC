@@ -19,7 +19,7 @@
         android:layout_height="50dp"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:hint="ip1"
+        android:hint="fuck you"
         android:inputType="number"
         />
 
@@ -29,7 +29,7 @@
         android:layout_height="50dp"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:hint="ip2"
+        android:hint="fuck you too"
         android:inputType="number"
         android:layout_marginBottom="20sp"
         />
